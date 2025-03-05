@@ -1,0 +1,17 @@
+{
+    "name": "wesle/ex033",
+    "autoload": {
+        "psr-4": {
+            "Wesle\\Ex033\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Wesley Patrick Ochakowski",
+            "email": "wesleypatrick0909@gmail.com"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.24"
+    }
+}
